@@ -3,6 +3,7 @@ layout: post
 title: Hydejack Pro 테마로 블로그 시작하기 
 description: >
     Hydejack Pro 테마를 이용하여 Github Pages로 블로그 배포하는 법
+image: /assets/img/hydejack-site.jpg
 sitemap: false
 hide_last_modified: true
 ---
