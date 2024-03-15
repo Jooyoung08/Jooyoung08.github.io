@@ -8,8 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Physicist 
-
+    Dr. Lee, Jooyoung |
+    Ph.D. in Experimental Particle Physics. |
   # This photo will be used in the about section
   picture:
     path:            /assets/extra/me.png
@@ -22,7 +22,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    #twitter:         <username>
+    twitter:           Jylee8875
     github:            Jooyoung08
     email:             jylee8875@proton.me
     # rss:             https://<url>/feed.xml
