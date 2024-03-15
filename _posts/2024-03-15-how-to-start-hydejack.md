@@ -48,8 +48,8 @@ hide_last_modified: true
 
  Hydejack Pro 패키지에 여러 파일과 디렉토리가 존재하는데, starter-kit을 사용하면 된다. 편의상 다음과 같이 진행하였다.
 
- 1. starter-kit 내부에 `#jekyll-theme-hydejack' 디렉토리를 제외한 모든 파일을 깃 디렉토리로 복사한다.
- 2. `#jekyll-theme-hydejack' 디렉토리 내부에서 `_config.yml', `jekyll-theme-hydejack.gemspec' 파일을 제외하고 모두 깃 디렉토리로 복사한다.
+ 1. starter-kit 내부에 \#jekyll-theme-hydejack 디렉토리를 제외한 모든 파일을 깃 디렉토리로 복사한다.
+ 2. \#jekyll-theme-hydejack 디렉토리 내부에서 _\_config.yml, jekyll-theme-hydejack.gemspec 파일을 제외하고 모두 깃 디렉토리로 복사한다.
  3. 중복되는 파일은 그냥 덮어쓴다.
 
   위 순서대로 진행하더라도 큰 문제는 발생하지 않았다. 다만 그림 파일등이 유실되어 보이지 않았다.
