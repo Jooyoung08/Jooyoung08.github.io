@@ -2,102 +2,146 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Jooyoung Lee"
+  label: "Experimental Particle Physicist"
+  picture: ""
+  email: "jylee8875@proton.me"
+  phone: ""
+  website: "Jooyoung08.github.io"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    For over a decade, I have conducted research on Neutrino and Dark Matter in underground laboratories such as Y2L, SNOALB, and Yemilab. My expertise lies in the design and R&D of various Scintillation Detector.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    address: "Daehakro 80"
+    postalCode: "41566"
+    city: "Daegu"
+    countryCode: "KR"
+    region: ""
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+    - network: "GitHub"
+      username: "Jooyung08"
+      url: "https://github.com/Jooyoung08"
+    - network: "ORCID"
+      username: "0000-0003-4444-6496"
+      url: "https://orcid.org/0000-0003-4444-6496"
+
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "The Center for High Energy Physics"
+    position: "PostDoc"
+    website: "https://chep.knu.ac.kr"
+    startDate: "2023-10-15"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      Supported by University-Centered Labs of Basic Science Research Program through the National Research Foundation of Korea (NRF) by the ministry of Education.
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+      - "Development of Liquid Scintillation Detector"
+      - "Double beta decay of Sn-124"
+
+  - company: "Queen's University"
+    position: "PostDoc"
+    website: "https://snoplus.phy.queensu.ca"
+    startDate: "2021-09-01"
+    endDate: "2022-09-21"
+    summary: >
+      The SNO+ experiment is a multipurpose particle astrophysics detector located at SNOLAB. SNO+ has an extensive scientific programme that concentrates on neutrino physics and the search for neutrinoless double beta decay.
     highlights:
-      - "Awarded 'Teacher of the Month'"
+    - "Upgrade SNO+ detector at SNOLAB in Sudbury, Canada"
+
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
-    courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+  - institution: "Kyungpook National University"
+    area: "Experimental Particle Physics"
+    studyType: "Doctor of Philosophy"
+    startDate: "2015-03-02"
+    endDate: "2021-08-20"
+  - institution: "Kyungpook National University"
+    area: "Experimental Particle Physics"
+    studyType: "Master of Science"
+    startDate: "2012-03-02"
+    endDate: "2015-02-25"
+  - institution: "Kyungpook National University"
+    area: "Physics"
+    studyType: "Bachelor of Science"
+    startDate: "2008-03-03"
+    endDate: "2012-02-24"
+
 awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+  - title: "Postdoctoral Fellowship Program"
+    date: "2021-09-01"
+    awarder: "National Research Foundation of Korea (NRF)"
+    summary: "Sideband Analysis for Double Beta Decay with the SNO+ Experiment"
+  - title: "Global PH.D Fellowship Program"
+    date: "2016-03-01"
+    awarder: "National Research Foundation of Korea (NRF)"
+    summary: "Neutrinoless double beta decay search"
+  - title: "Newton Award"
+    date: "2012-02-24"
+    awarder: "Department of Physics, Kyungpook National University"
+    summary: "Graduate in the 3rd place (Lecture of Physics)"
+
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "SNO+ Experiment"
+    website: "https://inspirehep.net/experiments/1108233"
+    summary: "See other co-author papers"
+  - name: "COSINE Experiment"
+    website: "https://inspirehep.net/experiments/1641535"
+    summary: "See other co-author papers"
+  - name: "AMoRE Experiment"
+    website: "https://inspirehep.net/experiments/1410749"
+    summary: "See other co-author papers"
+  - name: "NEOS Experiment"
+    website: "https://inspirehep.net/experiments/1495630"
+    summary: "See other co-author papers"
+  - name: "A Study of NaI(Tl) crystal encapsulation using organic scintillators for the dark matter search"
+    publisher: "NIM-A"
+    releaseDate: "2020-02-11"
+    website: "https://doi.org/10.1016/j.nima.2019.163141"
+  - name: "A Study of 48deplCa100MoO4 Scintillation Crystals for the AMoRE-I Experiment"
+    publisher: "IEEE TRANSACTIONS ON NUCLEAR SCIENCE"
+    releaseDate: "2018-03-22"
+    website: "https://doi.org/10.1109/TNS.2018.2818332"
+  - name: "Study of a generalized birks formula for the scintillation response of a CaMoO4 crystal"
+    publisher: "Journal of the Korean Physical Society"
+    releaseDate: "2017-10-20"
+    website: "https://doi.org/10.3938/jkps.71.928"
+  - name: "A Study of Radioactive Contamination of 40Ca100MoO4 Crystals for the AMoRE Experiment"
+    publisher: "IEEE TRANSACTIONS ON NUCLEAR SCIENCE"
+    releaseDate: "2016-04-20"
+    website: "https://doi.org/10.1109/TNS.2016.2530828"
+    # summary: ""
+
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Scientific Analysis Toolkit"
+    level: "2/3"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "ROOT"
+  - name: "Programming Language"
+    level: "1/3"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "C++"
+      - "Python"
+      - "RUST"
+  - name: "Deep Learning"
+    level: "1/3"
+    keywords:
+      - "PyTorch"
+  - name: "Second Brain"
+    level: "1/3"
+    keywords:
+      - "Obsidian"
+      - "Zotero"
+
 languages:
+  - language: "Korean"
+    fluency: "5/5"
   - language: "English"
-    fluency: "Native speaker"
+    fluency: "3/5"
+
 interests:
-  - name: "Wildlife"
+  - name: "Personal Knowledge Management (PKM)"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+      - "Zettelkasten"
+      - "Second Brain"
+      - "Obsidian"
+# references:
+#   - name: ""
+#     reference: >
+#       Company proved that he will be a valuable addition to any company.
