@@ -1,17 +1,18 @@
 ---
-layout: page
-title: Thank You!
+layout: welcome
+title: Natural Born Idiot
+cover: true
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+## 블로그 소개
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+각종 정보들을 아카이브 하고 공유하기 위해 만들었습니다.
 
-## First Steps
+
+## Hydejack Manual
+
+Below article will be removed soon.
 Start by reading the [Documentation]{:.heading.flip-title}.
 Specifically, the chapters below should be relevant now:
 
