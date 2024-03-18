@@ -23,5 +23,4 @@ sitemap: false
 
 ## Starting BLOG with Hydejack Pro
 
- * [블로그 처음 시작]({% post_url 2024-03-15-how-to-start-hydejack.md})
 
