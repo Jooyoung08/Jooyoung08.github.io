@@ -21,6 +21,7 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-## Starting BLOG with Hydejack Pro
+* [블로그 시작하기][start-blog]
 
+[start-blog]: ../_posts/2024-03-15-how-to-start-hydejack.md
 
