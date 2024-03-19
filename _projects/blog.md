@@ -21,7 +21,9 @@ theme_color: '#193747'
 sitemap: false
 ---
 
+* [Resume 편집하기][editresume]
 * [블로그 시작하기][start-blog]
 
 [start-blog]: ../_posts/2024-03-15-how-to-start-hydejack.md
+[editresume]: ../_posts/2024-03-19-hydejack-pro-resume.md
 
