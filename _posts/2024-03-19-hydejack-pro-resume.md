@@ -51,7 +51,7 @@ hide_last_modified: true
 
 대략적인 구조는 다음과 같다.
 
- ~~~
+~~~
 basics:
   name:
   label:
@@ -139,3 +139,27 @@ languages:
 ~~~
 
 [skill]: https://hydejack.com/docs/basics/#skill-level-icons
+
+---
+
+## Resume 관련 파일
+
+### resume.md
+
+ Resume 기본 페이지.
+
+ 해당 페이지에서 resume를 정의한다.
+
+### \_include/pro/resume
+
+ * basics.html
+ * header.html
+ ...
+
+ \_data/resume.yml 에서 작성한 basics 등의 요소를 표시하는 규칙 모음
+
+### \_layouts/resume.html
+
+ Resume를 구성하는 요소 편집.
+
+ \_include/pro/resume에 위치한 각종 html 파일을 포함하는 레이아웃.
