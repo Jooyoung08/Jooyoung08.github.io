@@ -125,6 +125,11 @@ defaults:
       layout:          plain
       sitemap:         false
 
+  # Applause_button
+  - scope:
+      type: posts
+    values:
+      applause_button:  true
   # # You can use the following to enable comments on all posts.
   # - scope:
   #     type:            posts
