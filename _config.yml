@@ -167,6 +167,21 @@ kramdown:
 # To remove Google Anaylics from your page, remove the line below.
 # google_analytics:      UA-XXXXXXXX-X
 
+# Giscus Settings
+comments:
+  provider:  giscus
+
+giscus:
+  repo:                "jooyoung08/jooyoung08.github.io"
+  repo-id:             "R_kgDOLgNH8A"
+  category:            "Comments"
+  category-id:         "DIC_kwDOLgNH8M4CeMQU"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  data-emit-metadata:  "0"
+  theme:               "dark_dimmed"
+  data-lang:           "en"
+  crossorigin:         "anonymous"
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
