@@ -125,16 +125,13 @@ defaults:
       layout:          plain
       sitemap:         false
 
+  # You can use the following to enable comments on all posts.
   # Applause_button
   - scope:
       type: posts
     values:
       applause_button:  true
-  # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+      comments:         true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
