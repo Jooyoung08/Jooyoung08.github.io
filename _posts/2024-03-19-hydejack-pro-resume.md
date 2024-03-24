@@ -7,6 +7,7 @@ image:
   path: /assets/img/resume.png
 sitemap: false
 hide_last_modified: true
+comments: true
 ---
 * toc
 {:toc}
