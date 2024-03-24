@@ -177,8 +177,9 @@ giscus:
   reaction-enabled:    "1"
   data-emit-metadata:  "0"
   theme:               "dark_dimmed"
-  data-lang:           "en"
+  data-lang:           "ko"
   crossorigin:         "anonymous"
+
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
