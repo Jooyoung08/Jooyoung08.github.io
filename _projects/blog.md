@@ -27,3 +27,10 @@ sitemap: false
 [start-blog]: ../_posts/2024-03-15-how-to-start-hydejack.md
 [editresume]: ../_posts/2024-03-19-hydejack-pro-resume.md
 
+---
+
+ Hydejack 및 Jekyll 블로그 참고 블로그
+
+ * [박수 버튼 추가하기](https://lazyren.github.io/devlog/add-applause-button-for-jekyll-post.html)
+ * [Giscus, 코멘트 추가하기](https://lazyren.github.io/devlog/use-utterances-for-jekyll-comments.html)
+
