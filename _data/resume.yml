@@ -64,11 +64,15 @@ education:
     endDate: "2012-02-24"
 
 awards:
+  - title: "Postdoctoral Collaboration Program"
+    date: "2024-09-01"
+    awarder: "National Research Foundation of Korea (NRF)"
+    summary: "Development of a liquid scintillator detector for the research of neutrinos"
   - title: "Postdoctoral Fellowship Program"
     date: "2021-09-01"
     awarder: "National Research Foundation of Korea (NRF)"
     summary: "Sideband Analysis for Double Beta Decay with the SNO+ Experiment"
-  - title: "Global PH.D Fellowship Program"
+  - title: "Global PhD Fellowship Program"
     date: "2016-03-01"
     awarder: "National Research Foundation of Korea (NRF)"
     summary: "Neutrinoless double beta decay search"
